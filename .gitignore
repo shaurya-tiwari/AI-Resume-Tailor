@@ -1,0 +1,16 @@
+# Secrets & Environments
+.env
+.venv/
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Streamlit Cache
+.streamlit/
+
+# macOS / Windows System Files
+.DS_Store
+Thumbs.db
