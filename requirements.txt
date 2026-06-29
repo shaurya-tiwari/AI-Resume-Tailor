@@ -2,6 +2,7 @@ streamlit
 langchain
 langchain-groq
 langchain-community
+langchain-text-splitters
 python-dotenv
 python-docx
 faiss-cpu
